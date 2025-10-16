@@ -1,0 +1,112 @@
+body {
+    background-color: #dadada;
+}
+
+content {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.content {
+    display: grid;
+    justify-content: center;
+
+}
+
+img {
+    width: 250px;
+    height: 250px;
+}
+
+.patro {
+    display: grid;
+    height: 300px;
+    width: fit-content;
+    background: rgb(91, 91, 91);
+}
+
+h1 {
+    font-size: 50PX;
+    font-family: Impact;
+}
+
+.index {
+    justify-content: center;
+    align-items: center;
+    display: flex;
+}
+
+.botao {
+    background: #ff8e8a;
+    width: fit-content;
+    border-radius: 20%;
+    translate: 100px 0px;
+    width: 100px;
+    height: 50px;
+    font-size: 40px;
+    align-items: center;
+    text-align: center;
+}
+
+h2 {
+    font-size: 30px;
+
+}
+
+:root {
+    --header: #ffffff;
+}
+
+.MuNu {
+position: absolute;
+      top: 35%;
+
+}
+
+header {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    color: rgb(0, 0, 0);
+}
+
+.setaD {
+    text-decoration: none;
+    position: fixed;
+    font-size: 60px;
+    right: 0;
+    top: 50%;
+    /* Fixa na margem direita */
+
+}
+
+.setaE {
+    text-decoration: none;
+    position: fixed;
+    font-size: 60px;
+    left: 0;
+    top: 50%;
+    /* Fixa na margem direita */
+}
+
+nav {
+    color: black;
+    text-decoration: none;
+}
+
+nav a:visited {
+    color: #000;
+    /* Sua cor personalizada */
+    text-decoration: none;
+    /* Remove o sublinhado padrão */
+}
+
+nav a:hover {
+    color: blue;
+}
+
+a {
+    text-decoration: none;
+    color: #000;
+}
