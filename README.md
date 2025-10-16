@@ -27,6 +27,4 @@ MuNu é um site desenvolvido com **HTML**, **CSS** e **JavaScript**, focado em o
 
 ## 🚀 Como executar
 
-1. Faça o download ou clone este repositório:
-   ```bash
-   git clone https://github.com/seu-usuario/munu.git
+👷 Site em desenvolvimento!
